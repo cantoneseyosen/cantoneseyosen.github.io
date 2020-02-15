@@ -86,7 +86,7 @@ hr {
 }
 
 blockquote {
-    border-left: 5px solid #42b983;
+    border-left: 5px solid #a376df;
     padding: 1rem 0.8rem 0.2rem 0.8rem;
     color: #666;
     background-color: rgba(66, 185, 131, .1);
@@ -105,7 +105,7 @@ code {
     padding: 1px 5px;
     font-family: Inconsolata, Monaco, Consolas, 'Courier New', Courier, monospace;
     font-size: 0.91rem;
-    color: #e96900;
+    color: #c767ec;
     background-color: #f8f8f8;
     border-radius: 2px;
 }
@@ -163,7 +163,7 @@ mark {
 }
 
 .bg-color {
-    background-image: linear-gradient(to right, #5ca1e2 100%, #4876ff 100%);
+    background-image: linear-gradient(to right, #5ca1e2 50%, #4876ff 100%);
 }
 
 .text-color {
@@ -862,7 +862,7 @@ article .article-tags .chip {
 
 #artDetail .reprint a {
     font-size: 1.05rem;
-    color: #42b983;
+    color: #42b1b9;
     font-weight: 500;
 }
 
@@ -878,7 +878,7 @@ article .article-tags .chip {
 
 #articleContent a {
     padding: 0 2px;
-    color: #42b983;
+    color: #42b5b9;
     font-weight: 500;
     text-decoration: underline;
     word-wrap:break-word;
@@ -1020,7 +1020,7 @@ table tr:nth-child(2n), thead {
 }
 
 .chip-default .tag-length {
-    color: #e91e63;
+    color: #1ea9e9;
 }
 
 .chip-active .tag-length {
@@ -1594,7 +1594,7 @@ footer .copy-right {
 }
 
 .top-scroll .btn-floating {
-    background: linear-gradient(to bottom right, rgb(200, 255, 255) 0%, rgb(50, 255, 255) 100%);
+    background: linear-gradient(to bottom right, rgb(200, 235, 255) 0%, rgb(50, 163, 255) 100%);
     width: 48px;
     height: 48px;
 }
